@@ -1,3 +1,5 @@
+// const dayjs = require("/node_modules/dayjs");
+
 $(function () {
   // Add a listener for click events on the save button
   $(".saveBtn").on("click", function() {
@@ -11,6 +13,7 @@ $(function () {
   $(".time-block").each(function() {
     var blockHour = parseInt($(this).attr("id").split("-")[1]); // Extract the hour from the id attribute
     if (blockHour < currentHour) {
+      //console.log("blockHour", "currentHour", classList);
       $(this).removeClass("present future").addClass("past");
     } else if (blockHour === currentHour) {
       $(this).removeClass("past future").addClass("present");
