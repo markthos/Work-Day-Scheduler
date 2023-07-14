@@ -3,7 +3,7 @@
   ![License](https://img.shields.io/badge/License-mit-blue.svg)
 
   ## Description
-  This is a simple calendar application that allos a user to save events for each hour of a full day.  The app will run in the browser and features dynamically updated HTML and CSS powered by jQuery and dayJS.  I included extra hours in the day so that the individual's work day could be defined and adjusted by their own need in their work-flow and work-life balance. It also updates each hour to reflect how far along the day has gone and what tasks they still have coming up.
+  This is a simple calendar application that allos a user to save events for each hour of a full day.  The app will run in the browser and features dynamically updated HTML and CSS powered by jQuery and dayJS.  The work day is defined in this application as 9AM to 5PM to help optimize work-flow and work-life balance. It also updates each hour to reflect how far along the day has gone and what tasks they still have coming up using intuitive color coding.
 
   ## Table of Contents
   - [Description](#description)
