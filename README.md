@@ -7,6 +7,7 @@
 
   ## Table of Contents
   - [Description](#description)
+  - [Screenshot](#screenshot)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
@@ -15,6 +16,9 @@
   - [Questions](#questions)
   - [Contact Info](#contact-info)
 
+  ## Screenshot
+  <img src="images\screencapture-markthos-github-io-Work-Day-Scheduler-2023-07-14-14_50_50.png">
+  
   ## Installation
   N/A
 
